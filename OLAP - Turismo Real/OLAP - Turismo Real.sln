@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "OLAP - Turismo Real", "OLAP - Turismo Real\OLAP - Turismo Real.dwproj", "{A6779CDD-B5D2-4A26-A534-A2ADE72E93C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6779CDD-B5D2-4A26-A534-A2ADE72E93C8}.Development|Default.ActiveCfg = Development
+		{A6779CDD-B5D2-4A26-A534-A2ADE72E93C8}.Development|Default.Build.0 = Development
+		{A6779CDD-B5D2-4A26-A534-A2ADE72E93C8}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BE73B32-966A-4BC3-932B-CCE8ECC03FB9}
+	EndGlobalSection
+EndGlobal
