@@ -19,7 +19,7 @@
     <ObjectSnapshots>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
-        <TimeStamp>rwLp1Jtnh7871H+wpL5reMYgaYs=07-12-2022 1:05:2807-12-2022 1:04:38</TimeStamp>
+        <TimeStamp>GaB4Tm1mB8S+4CAhY9KueLY9Zos=07-12-2022 23:36:2407-12-2022 1:04:38</TimeStamp>
         <ID>
           <String>TurismoRealDatamart</String>
         </ID>
@@ -61,7 +61,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>bucdIYSqSt59W64qYpgvcbdd0OI=07-12-2022 0:55:2307-12-2022 1:04:38L9i+7u3Qur5hDz7Cgxxtp1A5A+0=07-12-2022 0:54:4207-12-2022 1:04:38</TimeStamp>
+        <TimeStamp>fmAln1MDMJ3U9j2ABLU5nsiu6H8=07-12-2022 23:40:1707-12-2022 23:40:17R8Lc9bYzNY98H6XOzr+1gopAdHA=07-12-2022 23:40:1707-12-2022 23:40:17</TimeStamp>
         <ID>
           <String>TurismoRealDatamart</String>
         </ID>
@@ -78,5 +78,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2022-12-07T04:05:33.406667Z</LastDeployed>
+  <LastDeployed>2022-12-08T02:45:51.296667Z</LastDeployed>
 </DeploymentSnapshot>
