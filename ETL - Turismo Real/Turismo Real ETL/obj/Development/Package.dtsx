@@ -11,8 +11,8 @@
   DTS:LocaleID="13322"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="40"
-  DTS:VersionGUID="{A95C5788-2818-4EAB-B50F-5ECF21E6DBF0}">
+  DTS:VersionBuild="48"
+  DTS:VersionGUID="{293C26F5-4B91-4B24-A6E0-EC00270529EB}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -27,7 +27,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwCnX49NUFEmyZxP8iAtM8wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACMFaJlsEE9bSeVX+VEPgkjJxdnMjzmwi+BNo+w7Pmm6gAAAAAOgAAAAAIAACAAAAAsqiAJusv50SAznu31/4v70kvRItTP/Hnyr9e4B7ZUTiAAAAAxg1UtGPGlUPJEOzESwDCu0ERShbB9RouvTMfUI0FvEUAAAADVrFwKyww2eCgdsR1Kma1QS74vqpv0mbgkkDz8gca5m5sAceKA+1KzXjuW2XwTT0IaM0+0IIk0uOhtDFLNp8fa</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwCnX49NUFEmyZxP8iAtM8wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAD0HKilKrnWsZCXJd4A8Yp0nEf/CJQc5OImQJNgLkzs7wAAAAAOgAAAAAIAACAAAACd002W+B48euYXphquLLjRMeBvL625UEeTgUwBW50WFSAAAABy/eb0ByJwRuxdhqEOienOshRvnEwvqkVliX79d01fUUAAAAAJKuS4hQjY07mLwyRbQ+Td5bJlxIK9E+a3ydCX21UjLuj3W5Wy75iNu1ZnIf25/CeG/M7UsU5iK21rBkKZISOj</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -42,7 +42,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwCnX49NUFEmyZxP8iAtM8wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAD8E10uhO8fRbm4rUG2QwO2iIrRcIbgihQxwsNblnTcQAAAAAAOgAAAAAIAACAAAADU7v2bsvrNOJnsEvq7fi+mSeVuWxWjwrnjSTS6gUR1UCAAAAB5v6LvEd3LgaV8F4QbrhN2L1hCWSiOzhvoTU1IU0gzq0AAAABBoIUpdwNZW2gIZ8I5kPBq8ShvRZ7KDitr0alhmteBIpy+r1bjMFnqqOYNYsF5UkH9ehy6UI+aBQrs0Xb2IPoC</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwCnX49NUFEmyZxP8iAtM8wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADoFxeE4/5stuOPTb+21ItTlFHg6FL+Nl5NfZ4g25f6nwAAAAAOgAAAAAIAACAAAACKH6rCqeEYpMCrPN1OfR4yHKFkVmVkfnwaJF0GFCc0ySAAAAAw60O8yjxR/DssCCChnIFLRQFEv03PMAwtGvRYW8R64EAAAAAh0PSBjOTaps9/DOuKZTuzKcSMZUR7OGlOIQjVgE2G8VunrQ9sut3PkEuX46eYFt4Lf2p0lrG6yf8eo80ZX69c</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -77,7 +77,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwCnX49NUFEmyZxP8iAtM8wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAABhwxRRxIVasJXWAO8EcK40q69MKlu1j0CboftMbigdgAAAAAOgAAAAAIAACAAAADCD+rUXUT6kxDiZGM/5URMN+52+mkglE7N97SqxerMCSAAAACTKhqmcvkdmOSH3EYz0YaW/MYFG9Y2NWAR5QxLYM70zUAAAACzsqahrj8i3kvp8T+aMpcE2dzZ8sHFdwO8VIleVlWVj0seG3q8vY9+gx80xS8Y7xTXHambhxyTvuFk3Gk6Frrb</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwCnX49NUFEmyZxP8iAtM8wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACAlLpihzXUmxfw5EVJMlUfDKJxYYwUIAuvZUxdgfBsmgAAAAAOgAAAAAIAACAAAACyb72Ab0YcZuWAmQ0wMHR59GooBdJJ2OPf4ysjfOUnISAAAADv+Mt5u8N8+j0zIvAOMmfE36bzgVGtqVOoz4PYLt1+E0AAAAAJmFtcwupR/YVBXGXdZD4lAcoNRwtzUbmOvFanUB9vohZ1uu9iY4ztLI7LHFOX4dAk0a2vr6xrew3p+vPueXP8</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -92,7 +92,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwCnX49NUFEmyZxP8iAtM8wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAutfqiQwc0H9RMWrQQV7Tpnil/1QsftCQkXJFOiF4dagAAAAAOgAAAAAIAACAAAABzqmcqg6lxMjfqmqK9ptNM93/M1HdqjefNBac6bRTC5yAAAADr93btHv1q5CK1M5C6yiPtWbAh5pUR1OYZOkqk8iS9KEAAAABPyPMzqiMM45HuTS5aScMZFPgjxFRy2uy9vyS9j2ZZicEHBoHZPaOPbC1LOroxftAAUpCJmYRKPP0E32HCqWmI</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwCnX49NUFEmyZxP8iAtM8wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA4mBrVhd5rmUIA7v0CuQoeqVzid6YBty2XaRIWhL8KPAAAAAAOgAAAAAIAACAAAABy2DWAPBflu99aU9Ma7qwAGUICHTGe/J1DIHoKnsOEXiAAAABFAAXg2Btv5jx6Sf8h7s0fd8lHM1Af0wXqwOwAT+/U7UAAAABPTCBF+q773ZaigaKBEHFxIOurZZb/CBZeRRUGHTdvr7j2PVEHJm4iBVIzt4h3WS5Ox9z7DFRVp+uSWqLNh8MG</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -4039,7 +4039,7 @@ FROM     TURISMO_REAL.VIVIENDA AS V INNER JOIN
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{8B687742-3DED-4B69-B8E0-AD798854C964}"
-          SQLTask:SqlStatementSource="SET LANGUAGE SPANISH;&#xA;DECLARE @FECHA_COMPLETA AS DATETIME, &#xA;@ANIO AS CHAR(4), @MES AS SMALLINT, @MES_LETRA AS CHAR(10),&#xA;@SEMESTRE AS SMALLINT, @TRIMESTRE AS SMALLINT, @SEMESTRE_LETRA AS CHAR(20), @TRIMESTRE_LETRA AS CHAR(20),&#xA;@DIA AS SMALLINT, &#xA;@SEMANA AS SMALLINT, @SEMANA_LETRA AS CHAR(20),&#xA;@QUINCENA AS SMALLINT, @QUINCENA_LETRA AS CHAR(20),&#xA;@DIA_LETRA AS CHAR(10),@HORA AS CHAR(2), @MINUTO AS CHAR(2), @SEGUNDO AS CHAR(2),&#xA;@FECHA_INICIO AS DATETIME, @FECHA_TERMINO AS DATETIME&#xA;BEGIN TRANSACTION&#xA;SELECT @FECHA_INICIO = CAST('01/01/2022 00:00:00' AS DATETIME)&#xA;SELECT @FECHA_TERMINO = CAST('31/12/2025 00:00:00' AS DATETIME)&#xA;WHILE (@FECHA_INICIO &lt;= @FECHA_TERMINO) &#xA;BEGIN&#xA;&#x9;SELECT @FECHA_COMPLETA = @FECHA_INICIO&#xA;&#x9;SELECT @ANIO = DATEPART(YYYY, @FECHA_INICIO)&#xA;&#x9;SELECT @TRIMESTRE = DATEPART(QUARTER, @FECHA_INICIO)&#xA;&#x9;SET @TRIMESTRE_LETRA = (SELECT CASE @TRIMESTRE WHEN 1 THEN 'Primer Trimestre' WHEN 2 THEN 'Segundo Trimestre' WHEN 3 THEN 'Tercer Trimestre' WHEN 4 THEN 'Cuarto Trimestre' END)&#xA;&#x9;SELECT @SEMESTRE = ((DATEPART(MM, @FECHA_INICIO) -1 ) / 6 ) + 1&#xA;&#x9;SET @SEMESTRE_LETRA = (SELECT CASE @SEMESTRE WHEN 1 THEN 'Primer Semestre' WHEN 2 THEN 'Segundo Semestre' END)&#xA;&#x9;SELECT @MES = DATEPART(MM, @FECHA_INICIO)&#xA;&#x9;SELECT @MES_LETRA = DATENAME(MM, @FECHA_INICIO)&#xA;&#x9;SELECT @QUINCENA = (((DATEPART(DD, @FECHA_INICIO)) - 1)/15) + 1&#xA;&#x9;IF @QUINCENA = 3 &#xA;&#x9;BEGIN&#xA;&#x9;&#x9;SET @QUINCENA = @QUINCENA - 1&#xA;&#x9;END&#xA;&#x9;SET @QUINCENA_LETRA = (SELECT CASE @QUINCENA WHEN 1 THEN 'Primera Quincena' WHEN 2 THEN 'Segunda Quincena' END)&#xA;&#x9;SELECT @SEMANA = DATEPART(ISO_WEEK,@FECHA_INICIO)&#xA;&#x9;SET @SEMANA_LETRA = 'Semana NRO ' + CONVERT(CHAR(20),@SEMANA)&#xA;&#x9;SELECT @DIA = DATEPART(DD, @FECHA_INICIO)&#xA;&#x9;SELECT @DIA_LETRA = DATENAME(DW,@FECHA_INICIO)&#xA;&#xA;&#x9;INSERT INTO TurismoRealDM.DBO.DIM_TIME&#xA;&#x9;(date_desc, year_desc, trimester_id, trimester_desc, semester_id, semester_desc, month_id, month_desc, fortnight_id, fortnight_desc, week_id, week_desc, day_id, day_desc)&#xA;&#x9;VALUES &#xA;&#x9;(@fecha_completa, @anio, @TRIMESTRE, @TRIMESTRE_LETRA, @SEMESTRE, @SEMESTRE_LETRA, @MES, @MES_LETRA, @QUINCENA, @QUINCENA_LETRA, @SEMANA, @SEMANA_LETRA, @DIA,@DIA_LETRA);&#xA;&#x9;SELECT @FECHA_INICIO =  DATEADD(DAY,1,@FECHA_INICIO)&#xA;END&#xA;COMMIT TRANSACTION" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="SET LANGUAGE SPANISH;&#xA;DECLARE @FECHA_COMPLETA AS DATETIME, &#xA;@ANIO AS CHAR(4), @MES AS SMALLINT, @MES_LETRA AS CHAR(10),&#xA;@SEMESTRE AS SMALLINT, @TRIMESTRE AS SMALLINT, @SEMESTRE_LETRA AS CHAR(20), @TRIMESTRE_LETRA AS CHAR(20),&#xA;@DIA AS SMALLINT, &#xA;@SEMANA AS SMALLINT, @SEMANA_LETRA AS CHAR(20),&#xA;@QUINCENA AS SMALLINT, @QUINCENA_LETRA AS CHAR(20),&#xA;@DIA_LETRA AS CHAR(10),@HORA AS CHAR(2), @MINUTO AS CHAR(2), @SEGUNDO AS CHAR(2),&#xA;@FECHA_INICIO AS DATETIME, @FECHA_TERMINO AS DATETIME&#xA;BEGIN TRANSACTION&#xA;SELECT @FECHA_INICIO = CAST('01/01/2022 00:00:00' AS DATETIME)&#xA;SELECT @FECHA_TERMINO = CAST('31/12/2025 00:00:00' AS DATETIME)&#xA;WHILE (@FECHA_INICIO &lt;= @FECHA_TERMINO) &#xA;BEGIN&#xA;&#x9;SELECT @FECHA_COMPLETA = @FECHA_INICIO&#xA;&#x9;SELECT @ANIO = DATEPART(YYYY, @FECHA_INICIO)&#xA;&#x9;SELECT @TRIMESTRE = DATEPART(QUARTER, @FECHA_INICIO)&#xA;&#x9;SET @TRIMESTRE_LETRA = (SELECT CASE @TRIMESTRE WHEN 1 THEN 'Primer Trimestre' WHEN 2 THEN 'Segundo Trimestre' WHEN 3 THEN 'Tercer Trimestre' WHEN 4 THEN 'Cuarto Trimestre' END)&#xA;&#x9;SELECT @SEMESTRE = ((DATEPART(MM, @FECHA_INICIO) -1 ) / 6 ) + 1&#xA;&#x9;SET @SEMESTRE_LETRA = (SELECT CASE @SEMESTRE WHEN 1 THEN 'Primer Semestre' WHEN 2 THEN 'Segundo Semestre' END)&#xA;&#x9;SELECT @MES = DATEPART(MM, @FECHA_INICIO)&#xA;&#x9;SELECT @MES_LETRA = DATENAME(MM, @FECHA_INICIO)&#xA;&#x9;SELECT @QUINCENA = (((DATEPART(DD, @FECHA_INICIO)) - 1)/15) + 1&#xA;&#x9;IF @QUINCENA = 3 &#xA;&#x9;BEGIN&#xA;&#x9;&#x9;SET @QUINCENA = @QUINCENA - 1&#xA;&#x9;END&#xA;&#x9;SET @QUINCENA_LETRA = (SELECT CASE @QUINCENA WHEN 1 THEN 'Primera Quincena' WHEN 2 THEN 'Segunda Quincena' END)&#xA;&#x9;&#xA;&#x9;SELECT @DIA = DATEPART(DD, @FECHA_INICIO)&#xA;&#x9;SELECT @DIA_LETRA = DATENAME(DW,@FECHA_INICIO)&#xA;&#xA;&#x9;SELECT @SEMANA = datepart(week,@FECHA_INICIO) - datepart(week, dateadd(dd,-day(@FECHA_INICIO)+1,@FECHA_INICIO))+1&#xA;&#xA;&#xA;&#xA;&#x9;SET @SEMANA_LETRA = (&#xA;&#x9;&#x9;SELECT CASE @SEMANA &#xA;&#x9;&#x9;&#x9;WHEN 1 THEN 'Primera Semana' &#xA;&#x9;&#x9;&#x9;WHEN 2 THEN 'Segunda Semana' &#xA;&#x9;&#x9;&#x9;WHEN 3 THEN 'Tercera Semana'&#xA;&#x9;&#x9;&#x9;WHEN 4 THEN 'Cuarta Semana'&#xA;&#x9;&#x9;&#x9;WHEN 5 THEN 'Quinta Semana'&#xA;&#x9;&#x9;&#x9;WHEN 6 THEN 'Sexta Semana'&#xA;&#x9;&#x9;&#x9;ELSE 'N/A'&#xA;&#x9;&#x9;END&#xA;&#x9;)&#xA;&#x9;INSERT INTO TurismoRealDM.DBO.DIM_TIME&#xA;&#x9;(date_desc, year_desc, trimester_id, trimester_desc, semester_id, semester_desc, month_id, month_desc, fortnight_id, fortnight_desc, week_id, week_desc, day_id, day_desc)&#xA;&#x9;VALUES &#xA;&#x9;(@fecha_completa, @anio, @TRIMESTRE, @TRIMESTRE_LETRA, @SEMESTRE, @SEMESTRE_LETRA, @MES, @MES_LETRA, @QUINCENA, @QUINCENA_LETRA, @SEMANA, @SEMANA_LETRA, @DIA,@DIA_LETRA);&#xA;&#x9;SELECT @FECHA_INICIO =  DATEADD(DAY,1,@FECHA_INICIO)&#xA;END&#xA;COMMIT TRANSACTION" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -4998,6 +4998,10 @@ FROM     TURISMO_REAL.RESERVA AS ORDER_REL INNER JOIN
       <GraphLayout
         Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
+          Size="128,41.6"
+          Id="Package\CLEANING"
+          TopLeft="332.857148525666,41.2941182261933" />
+        <NodeLayout
           Size="138.4,41.6"
           Id="Package\DIM_CLIENT"
           TopLeft="7.14285726449921,221.764708992519" />
@@ -5005,6 +5009,14 @@ FROM     TURISMO_REAL.RESERVA AS ORDER_REL INNER JOIN
           Size="155.2,41.6"
           Id="Package\DIM_DWELLING"
           TopLeft="445.714293304755,223.294120778675" />
+        <NodeLayout
+          Size="137.6,41.6"
+          Id="Package\DIM_ORDER"
+          TopLeft="672.857154315832,225.588238457907" />
+        <NodeLayout
+          Size="128,41.6"
+          Id="Package\DIM_TIME"
+          TopLeft="207.857146396929,225.588238457907" />
         <NodeLayout
           Size="134.4,41.6"
           Id="Package\FACT_RENT"
@@ -5077,10 +5089,6 @@ FROM     TURISMO_REAL.RESERVA AS ORDER_REL INNER JOIN
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="128,41.6"
-          Id="Package\CLEANING"
-          TopLeft="332.857148525666,41.2941182261933" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Restricción 2]"
           TopLeft="408.857148525666,82.8941182261933">
@@ -5115,10 +5123,6 @@ FROM     TURISMO_REAL.RESERVA AS ORDER_REL INNER JOIN
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="128,41.6"
-          Id="Package\DIM_TIME"
-          TopLeft="207.857146396929,225.588238457907" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Restricción 3]"
           TopLeft="384.857148525666,82.8941182261933">
@@ -5221,10 +5225,6 @@ FROM     TURISMO_REAL.RESERVA AS ORDER_REL INNER JOIN
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="137.6,41.6"
-          Id="Package\DIM_ORDER"
-          TopLeft="672.857154315832,225.588238457907" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Restricción 6]"
           TopLeft="432.857148525666,82.8941182261933">
@@ -5300,7 +5300,15 @@ FROM     TURISMO_REAL.RESERVA AS ORDER_REL INNER JOIN
     design-time-name="Package\DIM_CLIENT">
     <LayoutInfo>
       <GraphLayout
-        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="170.4,41.6"
+          Id="Package\DIM_CLIENT\OLE DB Destination"
+          TopLeft="527,416" />
+        <NodeLayout
+          Size="97.6,41.6"
+          Id="Package\DIM_CLIENT\Sort"
+          TopLeft="347,392" />
         <NodeLayout
           Size="192,41.6"
           Id="Package\DIM_CLIENT\OLE DB CLIENT ORIGIN"
@@ -5309,40 +5317,6 @@ FROM     TURISMO_REAL.RESERVA AS ORDER_REL INNER JOIN
           Size="119.2,41.6"
           Id="Package\DIM_CLIENT\FORMAT"
           TopLeft="539,145" />
-        <EdgeLayout
-          Id="Package\DIM_CLIENT.Paths[OLE DB Source Output]"
-          TopLeft="407,130.8">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="132,35"
-              Start="0,0"
-              End="124.5,35">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="62,0" />
-                  <mssgle:CubicBezierSegment
-                    Point1="62,0"
-                    Point2="66,0"
-                    Point3="66,4" />
-                  <mssgle:LineSegment
-                    End="66,31" />
-                  <mssgle:CubicBezierSegment
-                    Point1="66,31"
-                    Point2="66,35"
-                    Point3="70,35" />
-                  <mssgle:LineSegment
-                    End="124.5,35" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
         <NodeLayout
           Size="155.2,41.6"
           Id="Package\DIM_CLIENT\Data Conversion"
@@ -5378,13 +5352,11 @@ FROM     TURISMO_REAL.RESERVA AS ORDER_REL INNER JOIN
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="97.6,41.6"
-          Id="Package\DIM_CLIENT\Sort"
-          TopLeft="347,392" />
         <EdgeLayout
           Id="Package\DIM_CLIENT.Paths[Data Conversion Output]"
           TopLeft="382.6,281.6">
@@ -5416,13 +5388,11 @@ FROM     TURISMO_REAL.RESERVA AS ORDER_REL INNER JOIN
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="170.4,41.6"
-          Id="Package\DIM_CLIENT\OLE DB Destination"
-          TopLeft="527,416" />
         <EdgeLayout
           Id="Package\DIM_CLIENT.Paths[Sort Output]"
           TopLeft="444.6,412.8">
@@ -5454,25 +5424,101 @@ FROM     TURISMO_REAL.RESERVA AS ORDER_REL INNER JOIN
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DIM_CLIENT.Paths[OLE DB Source Output]"
+          TopLeft="407,130.8">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="132,35"
+              Start="0,0"
+              End="124.5,35">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="62,0" />
+                  <mssgle:CubicBezierSegment
+                    Point1="62,0"
+                    Point2="66,0"
+                    Point3="66,4" />
+                  <mssgle:LineSegment
+                    End="66,31" />
+                  <mssgle:CubicBezierSegment
+                    Point1="66,31"
+                    Point2="66,35"
+                    Point3="70,35" />
+                  <mssgle:LineSegment
+                    End="124.5,35" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\DIM_CLIENT\OLE DB CLIENT ORIGIN">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\DIM_CLIENT\OLE DB Destination">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
   <TaskHost
     design-time-name="Package\DIM_DWELLING">
     <LayoutInfo>
       <GraphLayout
-        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="208.8,41.6"
           Id="Package\DIM_DWELLING\OLE DB DWELLING ORIGIN"
           TopLeft="170,106" />
         <NodeLayout
+          Size="170.4,41.6"
+          Id="Package\DIM_DWELLING\OLE DB Destination"
+          TopLeft="603,397" />
+        <NodeLayout
           Size="148.8,41.6"
           Id="Package\DIM_DWELLING\REPLACE NULL"
           TopLeft="529,140" />
+        <NodeLayout
+          Size="172.8,41.6"
+          Id="Package\DIM_DWELLING\DATA CONVERTION"
+          TopLeft="326,271" />
+        <NodeLayout
+          Size="104.8,41.6"
+          Id="Package\DIM_DWELLING\SORT"
+          TopLeft="233,412" />
         <EdgeLayout
           Id="Package\DIM_DWELLING.Paths[OLE DB Source Output]"
           TopLeft="378.8,126.8">
@@ -5504,55 +5550,11 @@ FROM     TURISMO_REAL.RESERVA AS ORDER_REL INNER JOIN
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="104.8,41.6"
-          Id="Package\DIM_DWELLING\SORT"
-          TopLeft="233,412" />
-        <NodeLayout
-          Size="170.4,41.6"
-          Id="Package\DIM_DWELLING\OLE DB Destination"
-          TopLeft="603,397" />
-        <EdgeLayout
-          Id="Package\DIM_DWELLING.Paths[Sort Output]"
-          TopLeft="337.8,432.8">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="265.2,-15"
-              Start="0,0"
-              End="257.7,-15">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="128.6,0" />
-                  <mssgle:CubicBezierSegment
-                    Point1="128.6,0"
-                    Point2="132.6,0"
-                    Point3="132.6,-4" />
-                  <mssgle:LineSegment
-                    End="132.6,-11" />
-                  <mssgle:CubicBezierSegment
-                    Point1="132.6,-11"
-                    Point2="132.6,-15"
-                    Point3="136.6,-15" />
-                  <mssgle:LineSegment
-                    End="257.7,-15" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="172.8,41.6"
-          Id="Package\DIM_DWELLING\DATA CONVERTION"
-          TopLeft="326,271" />
         <EdgeLayout
           Id="Package\DIM_DWELLING.Paths[Derived Column Output]"
           TopLeft="603.4,181.6">
@@ -5584,7 +5586,9 @@ FROM     TURISMO_REAL.RESERVA AS ORDER_REL INNER JOIN
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -5618,21 +5622,202 @@ FROM     TURISMO_REAL.RESERVA AS ORDER_REL INNER JOIN
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DIM_DWELLING.Paths[Sort Output]"
+          TopLeft="337.8,432.8">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="265.2,-15"
+              Start="0,0"
+              End="257.7,-15">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="128.6,0" />
+                  <mssgle:CubicBezierSegment
+                    Point1="128.6,0"
+                    Point2="132.6,0"
+                    Point3="132.6,-4" />
+                  <mssgle:LineSegment
+                    End="132.6,-11" />
+                  <mssgle:CubicBezierSegment
+                    Point1="132.6,-11"
+                    Point2="132.6,-15"
+                    Point3="136.6,-15" />
+                  <mssgle:LineSegment
+                    End="257.7,-15" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\DIM_DWELLING\OLE DB DWELLING ORIGIN">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\DIM_DWELLING\OLE DB Destination">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
+    design-time-name="Package\DIM_ORDER">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="191.2,41.6"
+          Id="Package\DIM_ORDER\OLE DB ORDER ORIGIN"
+          TopLeft="149,105" />
+        <NodeLayout
+          Size="248,41.6"
+          Id="Package\DIM_ORDER\OLE DB DIM_ORDER DESTINATION"
+          TopLeft="490,342" />
+        <NodeLayout
+          Size="97.6,41.6"
+          Id="Package\DIM_ORDER\Sort"
+          TopLeft="296,310" />
+        <EdgeLayout
+          Id="Package\DIM_ORDER.Paths[Sort Output]"
+          TopLeft="393.6,330.8">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="96.4,32"
+              Start="0,0"
+              End="88.9,32">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="44.2,0" />
+                  <mssgle:CubicBezierSegment
+                    Point1="44.2,0"
+                    Point2="48.2,0"
+                    Point3="48.2,4" />
+                  <mssgle:LineSegment
+                    End="48.2,28" />
+                  <mssgle:CubicBezierSegment
+                    Point1="48.2,28"
+                    Point2="48.2,32"
+                    Point3="52.2,32" />
+                  <mssgle:LineSegment
+                    End="88.9,32" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DIM_ORDER.Paths[OLE DB Source Output]"
+          TopLeft="244.6,146.6">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="100.2,163.4"
+              Start="0,0"
+              End="100.2,155.9">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,77.7" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,77.7"
+                    Point2="0,81.7"
+                    Point3="4,81.7" />
+                  <mssgle:LineSegment
+                    End="96.2,81.7" />
+                  <mssgle:CubicBezierSegment
+                    Point1="96.2,81.7"
+                    Point2="100.2,81.7"
+                    Point3="100.2,85.7" />
+                  <mssgle:LineSegment
+                    End="100.2,155.9" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\DIM_ORDER\OLE DB ORDER ORIGIN">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\DIM_ORDER\OLE DB DIM_ORDER DESTINATION">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
   <TaskHost
     design-time-name="Package\FACT_RENT">
     <LayoutInfo>
       <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="149.6,41.6"
           Id="Package\FACT_RENT\OLE DB Source"
           TopLeft="219,151" />
+        <NodeLayout
+          Size="184.8,41.6"
+          Id="Package\FACT_RENT\OLE DB DESTINATION"
+          TopLeft="566,330" />
         <NodeLayout
           Size="97.6,41.6"
           Id="Package\FACT_RENT\Sort"
@@ -5668,13 +5853,11 @@ FROM     TURISMO_REAL.RESERVA AS ORDER_REL INNER JOIN
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="184.8,41.6"
-          Id="Package\FACT_RENT\OLE DB DESTINATION"
-          TopLeft="566,330" />
         <EdgeLayout
           Id="Package\FACT_RENT.Paths[Sort Output]"
           TopLeft="425.8,295.6">
@@ -5706,173 +5889,14 @@ FROM     TURISMO_REAL.RESERVA AS ORDER_REL INNER JOIN
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\DIM_DWELLING\OLE DB DWELLING ORIGIN">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\DIM_DWELLING\OLE DB Destination">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\DIM_CLIENT\OLE DB CLIENT ORIGIN">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\DIM_CLIENT\OLE DB Destination">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
-    design-time-name="Package\DIM_ORDER">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="191.2,41.6"
-          Id="Package\DIM_ORDER\OLE DB ORDER ORIGIN"
-          TopLeft="149,105" />
-        <NodeLayout
-          Size="97.6,41.6"
-          Id="Package\DIM_ORDER\Sort"
-          TopLeft="296,310" />
-        <EdgeLayout
-          Id="Package\DIM_ORDER.Paths[OLE DB Source Output]"
-          TopLeft="244.6,146.6">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="100.2,163.4"
-              Start="0,0"
-              End="100.2,155.9">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,77.7" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,77.7"
-                    Point2="0,81.7"
-                    Point3="4,81.7" />
-                  <mssgle:LineSegment
-                    End="96.2,81.7" />
-                  <mssgle:CubicBezierSegment
-                    Point1="96.2,81.7"
-                    Point2="100.2,81.7"
-                    Point3="100.2,85.7" />
-                  <mssgle:LineSegment
-                    End="100.2,155.9" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="248,41.6"
-          Id="Package\DIM_ORDER\OLE DB DIM_ORDER DESTINATION"
-          TopLeft="490,342" />
-        <EdgeLayout
-          Id="Package\DIM_ORDER.Paths[Sort Output]"
-          TopLeft="393.6,330.8">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="96.4,32"
-              Start="0,0"
-              End="88.9,32">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="44.2,0" />
-                  <mssgle:CubicBezierSegment
-                    Point1="44.2,0"
-                    Point2="48.2,0"
-                    Point3="48.2,4" />
-                  <mssgle:LineSegment
-                    End="48.2,28" />
-                  <mssgle:CubicBezierSegment
-                    Point1="48.2,28"
-                    Point2="48.2,32"
-                    Point3="52.2,32" />
-                  <mssgle:LineSegment
-                    End="88.9,32" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\DIM_ORDER\OLE DB ORDER ORIGIN">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\DIM_ORDER\OLE DB DIM_ORDER DESTINATION">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\FACT_RENT\OLE DB Source">
     <Properties>
